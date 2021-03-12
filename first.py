@@ -1,0 +1,1 @@
+print("Glory be to God for His kindness and Faithfulness")
